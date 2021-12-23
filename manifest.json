@@ -304,48 +304,6 @@
         ]
     },
     {
-        "guid": "07caef58-a94b-4211-a62c-f9774e04ebdb",
-        "name": "Simkl",
-        "description": "Scrobble your watched Movies, TV Shows and Anime to Simkl and share your progress with friends!\n",
-        "overview": "Scrobble to Simkl",
-        "owner": "crobibero",
-        "category": "General",
-        "versions": [
-            {
-                "version": "2.2021.1103.2327",
-                "changelog": "Initial release\n",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_2.2021.1103.2327.zip",
-                "checksum": "d7e04a311dea7e5c2ffb7357f1dba6a5",
-                "timestamp": "2021-11-03T23:28:09Z"
-            },
-            {
-                "version": "1.2021.224.2010",
-                "changelog": "Initial release\n",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_1.2021.0224.2010.zip",
-                "checksum": "e1ed1212c9425b6431ddcc82778add4f",
-                "timestamp": "2021-02-24T20:10:53Z"
-            },
-            {
-                "version": "1.2021.224.1957",
-                "changelog": "Initial release\n",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_1.2021.0224.1957.zip",
-                "checksum": "323643a83213e28ea4f53f39cecd23df",
-                "timestamp": "2021-02-24T19:58:02Z"
-            },
-            {
-                "version": "1.2021.224.1941",
-                "changelog": "Initial release\n",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_1.2021.0224.1941.zip",
-                "checksum": "ea1a9fa1386b022481aded127df129bd",
-                "timestamp": "2021-02-24T19:42:12Z"
-            }
-        ]
-    },
-    {
         "guid": "a677c0da-fac5-4cde-941a-7134223f14c8",
         "name": "TheTVDB",
         "description": "Get TV metadata from TheTvdb\n",
@@ -427,49 +385,6 @@
                 "sourceUrl": "https://repo.jellyfin.org/releases/plugin/tmdb-box-sets/tmdb-box-sets_7.0.0.0.zip",
                 "checksum": "1551792e6af4d36f2cead01153c73cf0",
                 "timestamp": "2020-12-05T22:07:21Z"
-            }
-        ]
-    },
-    {
-        "guid": "170a157f-ac6c-437a-abdd-ca9c25cebd39",
-        "name": "Fanart",
-        "description": "Scrape poster images for movies, shows, and artists in your library.",
-        "overview": "Scrape poster images from Fanart",
-        "owner": "jellyfin",
-        "category": "Metadata",
-        "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-fanart.png",
-        "versions": [
-            {
-                "version": "8.0.0.0",
-                "changelog": "### Code or Repo Maintenance ###\n- 10.8 support (#30) @crobibero",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_8.0.0.0.zip",
-                "checksum": "fc792422237ae7a12f2588f9bace1c10",
-                "timestamp": "2021-11-01T20:57:41Z"
-            },
-            {
-                "version": "7.0.0.0",
-                "changelog": "- Remove jQuery and update to es6 (#26) @grafixeyehero\n- chore(ci): builds, releas drafter and more (#22) @h1dden-da3m0n\n- Use System.Text.Json (#21) @Ullmie02\n\n### New features and improvements ###\n- chore: plugin images (#25) @h1dden-da3m0n\n\n### Dependency updates ###\n- chore(deps): bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#23) @dependabot\n\n### CI & build changes ###\n- Update ci (#27) @h1dden-da3m0n",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_7.0.0.0.zip",
-                "checksum": "9c778b54acc3a5f0f0cccb020b63e02b",
-                "timestamp": "2021-09-03T18:30:22Z"
-            },
-            {
-                "version": "6.0.0.0",
-                "changelog": "changelog\n",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_6.0.0.0.zip",
-                "checksum": "ee4360bfcc8722d5a3a54cfe7eef640f",
-                "timestamp": "2020-12-05T22:25:43Z"
-            },
-            {
-                "version": "5.0.0.0",
-                "changelog": "changelog\n",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_5.0.0.0.zip",
-                "checksum": "f842f7d65d23f377761c907d40b89647",
-                "timestamp": "2020-07-20T01:30:48Z"
             }
         ]
     },
