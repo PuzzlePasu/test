@@ -413,48 +413,23 @@
         ]
     },
     {
-        "guid": "8119f3c6-cfc2-4d9c-a0ba-028f1d93e526",
-        "name": "Cover Art Archive",
-        "description": "This plugin provides images from the Cover Art Archive https://musicbrainz.org/doc/Cover_Art_Archive and depends on the MusicBrainz metadata provider to know what images belong where\n",
-        "overview": "MusicBrainz Cover Art Archive",
+        "guid": "bc4aad2e-d3d0-4725-a5e2-fd07949e5b42",
+        "name": "TMDb Box Sets",
+        "description": "Automatically create movie box sets based on TMDb collections",
+        "overview": "Automatically create movie box sets based on TMDb collections",
         "owner": "jellyfin",
         "category": "Metadata",
-        "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-coverartarchive.png",
         "versions": [
             {
-                "version": "4.0.0.0",
-                "changelog": "### Code or Repo Maintenance ###\n- 10.8 support (#13) @crobibero",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/cover-art-archive/cover-art-archive_4.0.0.0.zip",
-                "checksum": "4dccac26c6470cebc25cb8d6e4201b4d",
-                "timestamp": "2021-11-01T20:57:28Z"
-            },
-            {
-                "version": "3.0.0.0",
-                "changelog": "### New features and improvements ###\n- chore: plugin images (#5) @h1dden-da3m0n\n\n### Dependency updates ###\n- chore(deps): bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#4) @dependabot\n\n### CI & build changes ###\n- Update ci (#9) @h1dden-da3m0n\n- Create release prep PR on release draft update (#7) @oddstr13\n- Add analyzers and remove all warnings (#3) @crobibero\n- Let there be CI (#2) @oddstr13",
-                "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/cover-art-archive/cover-art-archive_3.0.0.0.zip",
-                "checksum": "ca0ae1e2575cae9cb8d9f0164b8ab92c",
-                "timestamp": "2021-07-28T20:36:41Z"
-            },
-            {
-                "version": "2.0.0.0",
+                "version": "7.0.0.0",
                 "changelog": "changelog\n",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/cover-art-archive/cover-art-archive_2.0.0.0.zip",
-                "checksum": "bea8fa4a37b3e7ed74e22266e7597a68",
-                "timestamp": "2020-12-06T02:51:03Z"
-            },
-            {
-                "version": "1.0.0.3",
-                "changelog": "changelog\n",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/cover-art-archive/cover-art-archive_1.0.0.3.zip",
-                "checksum": "c502a5c54b168810614c1c40709b9598",
-                "timestamp": "2020-08-06T21:21:22Z"
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/tmdb-box-sets/tmdb-box-sets_7.0.0.0.zip",
+                "checksum": "1551792e6af4d36f2cead01153c73cf0",
+                "timestamp": "2020-12-05T22:07:21Z"
             }
         ]
-    },   
+    },
     {
         "guid": "3fd018e5-5e78-4e58-b280-a0c068febee0",
         "name": "TVHeadend",
