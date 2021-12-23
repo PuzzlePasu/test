@@ -324,7 +324,7 @@
                 "version": "6.0.0.0",
                 "changelog": "### Bug Fixes ###\n- Changed NormalizationForm to FormC (#45) @sushilicious\n\n### CI & build changes ###\n- Update ci (#42) @h1dden-da3m0n",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/thetvdb/thetvdb_6.0.0.0.zip",
+                "sourceUrl": "https://github.com/l34551/test/raw/main/tvheadend_9.0.0.0.zip",
                 "checksum": "0d2bcfa13da7e10efa8874b445f92ba6",
                 "timestamp": "2021-08-07T21:24:50Z"
             },
