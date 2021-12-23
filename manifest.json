@@ -705,14 +705,6 @@
         "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-playbackreporting.png",
         "versions": [
             {
-                "version": "11.0.0.0",
-                "changelog": "- chore(deps): bump SQLitePCL.pretty.netstandard from 2.1.0 to 2.2.0 (#40) @dependabot\n\n### New features and improvements ###\n- chore: plugin images (#41) @h1dden-da3m0n\n\n### CI & build changes ###\n- Update ci (#45) @h1dden-da3m0n\n\n### Code or Repo Maintenance ###\n- 10.8 (#49) @crobibero",
-                "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/playback-reporting/playback-reporting_11.0.0.0.zip",
-                "checksum": "3f089d113f3bd3ddce1b05331219c657",
-                "timestamp": "2021-11-14T23:00:38Z"
-            },
-            {
                 "version": "10.0.0.0",
                 "changelog": "* Fix query to PlayActivity endpoint on User Playback Report (#35) @Stampede10343 * Feature/client timezone awareness (#37) @Stampede10343\n",
                 "targetAbi": "10.7.0.0",
@@ -727,22 +719,6 @@
                 "sourceUrl": "https://repo.jellyfin.org/releases/plugin/playback-reporting/playback-reporting_9.0.0.0.zip",
                 "checksum": "ca323b3dcb2cb86cc2e72a7a0f1eee22",
                 "timestamp": "2020-12-05T22:15:48Z"
-            },
-            {
-                "version": "8.0.0.0",
-                "changelog": "Add authentication to plugin endpoints\n",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/playback-reporting/playback-reporting_8.0.0.0.zip",
-                "checksum": "58644c505586542ef0b8b65e2f704bd1",
-                "timestamp": "2020-11-18T03:01:51Z"
-            },
-            {
-                "version": "7.0.0.0",
-                "changelog": "changelog\n",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/playback-reporting/playback-reporting_7.0.0.0.zip",
-                "checksum": "6a361ef33bca97f9155856d02ff47380",
-                "timestamp": "2020-07-20T01:32:09Z"
             }
         ]
     },
