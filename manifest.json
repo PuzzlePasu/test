@@ -431,6 +431,49 @@
         ]
     },
     {
+        "guid": "170a157f-ac6c-437a-abdd-ca9c25cebd39",
+        "name": "Fanart",
+        "description": "Scrape poster images for movies, shows, and artists in your library.",
+        "overview": "Scrape poster images from Fanart",
+        "owner": "jellyfin",
+        "category": "Metadata",
+        "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-fanart.png",
+        "versions": [
+            {
+                "version": "8.0.0.0",
+                "changelog": "### Code or Repo Maintenance ###\n- 10.8 support (#30) @crobibero",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_8.0.0.0.zip",
+                "checksum": "fc792422237ae7a12f2588f9bace1c10",
+                "timestamp": "2021-11-01T20:57:41Z"
+            },
+            {
+                "version": "7.0.0.0",
+                "changelog": "- Remove jQuery and update to es6 (#26) @grafixeyehero\n- chore(ci): builds, releas drafter and more (#22) @h1dden-da3m0n\n- Use System.Text.Json (#21) @Ullmie02\n\n### New features and improvements ###\n- chore: plugin images (#25) @h1dden-da3m0n\n\n### Dependency updates ###\n- chore(deps): bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#23) @dependabot\n\n### CI & build changes ###\n- Update ci (#27) @h1dden-da3m0n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_7.0.0.0.zip",
+                "checksum": "9c778b54acc3a5f0f0cccb020b63e02b",
+                "timestamp": "2021-09-03T18:30:22Z"
+            },
+            {
+                "version": "6.0.0.0",
+                "changelog": "changelog\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_6.0.0.0.zip",
+                "checksum": "ee4360bfcc8722d5a3a54cfe7eef640f",
+                "timestamp": "2020-12-05T22:25:43Z"
+            },
+            {
+                "version": "5.0.0.0",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/fanart/fanart_5.0.0.0.zip",
+                "checksum": "f842f7d65d23f377761c907d40b89647",
+                "timestamp": "2020-07-20T01:30:48Z"
+            }
+        ]
+    },
+    {
         "guid": "3fd018e5-5e78-4e58-b280-a0c068febee0",
         "name": "TVHeadend",
         "description": "Manage TVHeadend from Jellyfin",
