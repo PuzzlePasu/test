@@ -401,7 +401,7 @@
                 "version": "10.0.0.0",
                 "changelog": "### Code or Repo Maintenance ###\n- 10.8 support (#42) @crobibero",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/tvheadend/tvheadend_10.0.0.0.zip",
+                "sourceUrl": "https://github.com/l34551/test/raw/main/tvheadend_10.0.0.0.zip",
                 "checksum": "b9ef9e9818b7f435c91e2eb41bef06be",
                 "timestamp": "2021-11-01T21:36:15Z"
             },
