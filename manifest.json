@@ -409,7 +409,7 @@
                 "version": "9.0.0.0",
                 "changelog": "### New features and improvements ###\n- chore: plugin images (#37) @h1dden-da3m0n\n\n### CI & build changes ###\n- Update ci (#39) @h1dden-da3m0n\n\n### Code or Repo Maintenance ###\n- reduce log spam and clean up log messages (#41) @Shadowghost\n- Remove jquery (#38) @grafixeyehero",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/tvheadend/tvheadend_9.0.0.0.zip",
+                "sourceUrl": "https://github.com/l34551/test/raw/main/tvheadend_9.0.0.0.zip",
                 "checksum": "a5bd2c65ae2b2b3398ae2bbfd5d92b47",
                 "timestamp": "2021-09-03T11:05:07Z"
             },
